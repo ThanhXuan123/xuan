@@ -1,0 +1,55 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.wrapper{
+	width:90%;
+	background: color image position attachment repeat;
+	background:#f6f6f6 url(../images/bg_3.jpg) right top scroll no-repeat;
+	background-attachment: fixed;
+	height:100%;
+	border:2px dotted red;
+}
+.colum1{
+	width:29.5%;
+	background:url(../images/bg_1.jpg);
+	height:200px;
+	margin:10px;
+	padding:10px;
+	float:left;
+	border-left:2px dotted;
+	border-right:2px dotted;
+	border-top:1px solid;
+	border-bottom:1px solid;
+}
+.colum2{
+	width:29.5%;
+	background:#B0D0D4;
+	height:200px;
+	margin:10px;
+	padding:10px;
+	border-radius:20px;
+	float:left;
+	box-shadow: 5px 5px 5px #FE9A2E;
+}
+.colum2 div{
+	height:50px;
+	width:100%;
+	border:1px solid;
+	margin-top:7px;
+	background:#DDCCAA;
+}
+.colum3{
+	width:29.5%;
+	background-color:rgba(0,0,0,.3);
+	height:200px;
+	margin:10px;
+	padding:10px;
+	float:left;
+}
+.colum4{
+	clear:both;
+	width:96%;
+	background:linear-gradient(#ABA172,#FFF);
+	height:200px;
+}

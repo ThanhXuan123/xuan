@@ -1,0 +1,55 @@
+.wrapper{
+	width:90%;
+
+}
+.menu ul{
+	list-style-type:none;
+	text-align:center;
+	border:1px solid #CDCDCD;
+	 background-color: #F5F5F5
+}
+.menu ul li{
+	display:inline-block;
+	width:100px;
+	line-height:40px;
+	
+}
+.datdiem{
+	border:1px solid #CDCDCD;
+	margin:16px;
+	width:1213px;
+	margin-left:-1px;
+	 background-color:wheat;
+}
+.colum1{
+	float:left;
+	border:1px solid #CDCDCD;
+	width:31.5%;
+	height:140px;
+	text-align:center;
+	background-color: green;
+}
+.colum2{
+float:left;
+	border:1px solid #CDCDCD;
+	width:31.5%;
+	height:140px;
+	text-align:center;
+	background-color: #F5F5F5;
+}
+.colum3{
+float:left;
+	border:1px solid #CDCDCD;
+	width:36.5%;
+	height:140px;
+	text-align:center;
+	background-color:wheat;
+}
+.footer{
+	text-align:center;
+	clear:both;
+	padding-top:14px;
+
+	padding:5px; 
+	background-color:pink;
+}

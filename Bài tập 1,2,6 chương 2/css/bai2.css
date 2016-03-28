@@ -1,0 +1,22 @@
+@font-face{
+	font-family:myFont;
+	src: url(../font/black_jack.ttf);
+}
+.wrapper #font{
+	font-family:myFont;
+	color:blue;
+}
+.wrapper h1{
+  text-shadow:1px 1px 2px #000000;
+  color:blue; 
+}
+p:first-child{
+	color:red;
+}
+.wrapper #color{
+	color:blue;
+}
+#tag{
+	text-align: right;
+	font-style:italic;
+}
